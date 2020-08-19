@@ -39,6 +39,9 @@ const getWeather = async (link) => {
 }
 ```
 and when server send data client side send it to the ui 
+
+
+
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## How to run locally
